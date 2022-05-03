@@ -5,6 +5,7 @@ print(2*radius)
 from math import pi
 print(pi*71/223)
 
+# function can be named, eg f equals to the function of max
 f = max
 print(f(2,3,4))
 

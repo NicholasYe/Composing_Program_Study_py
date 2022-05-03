@@ -1,5 +1,6 @@
 from operator import add,mul
 
+# mul & add are operator while 2 & 3 are operant
 x = add(2,3)
 print(x)
 
